@@ -83,7 +83,7 @@
     "browserify-sign": "^4.2.2",
     "decode-uri-component": "^0.2.2",
     "history": "^4.10.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.7.1",
     "loader-utils": "^2.0.4",
     "lodash": "^4.17.15",
     "moment": "^2.29.4",
