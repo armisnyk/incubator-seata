@@ -75,7 +75,7 @@
   },
   "dependencies": {
     "@alicloud/console-components": "^1.0.19",
-    "@alicloud/console-components-actions": "^1.0.4",
+    "@alicloud/console-components-actions": "^1.1.1",
     "@alicloud/console-components-app-layout": "^1.0.4",
     "@alicloud/console-components-console-menu": "^1.0.4",
     "@babel/traverse": "^7.23.2",
