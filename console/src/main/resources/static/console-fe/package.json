@@ -74,7 +74,7 @@
     "webpack-dev-server": "^3.1.13"
   },
   "dependencies": {
-    "@alicloud/console-components": "^1.0.19",
+    "@alicloud/console-components": "^2.2.19",
     "@alicloud/console-components-actions": "^1.0.4",
     "@alicloud/console-components-app-layout": "^1.0.4",
     "@alicloud/console-components-console-menu": "^1.0.4",
@@ -90,11 +90,11 @@
     "prop-types": "^15.6.2",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
-    "react-redux": "^5.1.1",
-    "react-router": "^4.3.1",
-    "react-router-dom": "^4.3.1",
+    "react-redux": "^9.0.0",
+    "react-router": "^6.4.0",
+    "react-router-dom": "^6.4.0",
     "react-router-redux": "^4.0.8",
-    "redux": "^4.0.1",
+    "redux": "^5.0.0",
     "redux-thunk": "^2.3.0",
     "styled-components": "^4.4.1",
     "yamljs": "^0.3.0"
