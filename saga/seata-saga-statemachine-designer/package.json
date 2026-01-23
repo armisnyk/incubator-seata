@@ -50,7 +50,7 @@
     "codemirror": "^5.65.8",
     "core-js": "^3.6.5",
     "decode-uri-component": "^0.2.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "react-codemirror": "^1.0.0"
   },
   "devDependencies": {
